@@ -1,4 +1,4 @@
-# Hi there, I'm Yash Raj Singh! 👋
+# Namaste, I'm Yash Raj Singh! 👋
 
 ### 🚀 Tech & Creativity Enthusiast
 At the heart of my professional journey is a burning passion for merging technology and creativity. Here's what I do:
