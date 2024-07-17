@@ -5,6 +5,8 @@ At the heart of my professional journey is a burning passion for merging technol
 
 - **App Developer**: Crafting awesome applications with **Flutter** and **React Native**.
 - **Backend Developer**: Delving into the depths of **Rust**, **Express**, and **Flask** to ensure apps are powerful and efficient.
+- **Machine Learning**: I majorly explore CNNs and Audio ML Models.
+
 
 ### 🎨 Design & Video Production Aficionado
 I don't just code; I create experiences! My ventures into design and video production help me blend aesthetics with functionality, aiming to produce work that resonates emotionally and stands out for its innovation.
