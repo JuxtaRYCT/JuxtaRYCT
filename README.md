@@ -15,7 +15,7 @@ I don't just code; I create experiences! My ventures into design and video produ
 Math and physics aren't just academic subjects for me; they are the foundation of my analytical and problem-solving skills. They guide my algorithm designs and architectural decisions, ensuring a perfect balance of creativity and logic.
 
 ### 🌟 Interests & Hobbies
-- **Table Tennis Pro** 🏓
+- **Table Tennis Enthusiast** 🏓
 - **Cricket Enthusiast** 🏏
 - **Tech Explorer** 📱: Always learning about the latest in smartphones and computers.
 
