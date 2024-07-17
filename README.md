@@ -33,6 +33,6 @@ Let's explore the vast possibilities of technology and perhaps create something 
 
 ### 📫 Find Me Here:
 - [LinkedIn](https://www.linkedin.com/in/juxtaryct/)
-- [YouTubue](https://www.youtube.com/@juxtar)
+- [YouTube](https://www.youtube.com/@juxtar)
 
 Looking forward to connecting with you! 😄
