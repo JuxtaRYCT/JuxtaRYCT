@@ -35,4 +35,10 @@ Let's explore the vast possibilities of technology and perhaps create something 
 - [LinkedIn](https://www.linkedin.com/in/juxtaryct/)
 - [YouTube](https://www.youtube.com/@juxtar)
 
+### Tools I Use:
+- Primary OS: macOS Sonoma
+- Computer: MacBook Air M1
+
+
+
 Looking forward to connecting with you! 😄
