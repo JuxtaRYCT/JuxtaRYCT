@@ -38,6 +38,8 @@ Let's explore the vast possibilities of technology and perhaps create something 
 ### Tools I Use:
 - Primary OS: macOS Sonoma
 - Computer: MacBook Air M1
+- Mobile Phone: Samsung Galaxy S20 FE, Samsung Galaxy Note 9
+- Terminal: Alacritty
 
 
 
