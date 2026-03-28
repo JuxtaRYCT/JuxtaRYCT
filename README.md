@@ -36,8 +36,8 @@ Let's explore the vast possibilities of technology and perhaps create something 
 - [YouTube](https://www.youtube.com/@juxtar)
 
 ### Tools I Use:
-- Primary OS: macOS Sonoma
-- Computer: MacBook Air M1
+- Primary OS: macOS Tahoe
+- Computer: MacBook Pro M5 Pro
 - Mobile Phone: Samsung Galaxy S23 Ultra, Samsung Galaxy Note 9
 - Terminal: Alacritty
 
